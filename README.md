@@ -5,7 +5,7 @@
 
 - ✨ I’m currently learning **Java, C++, Python, Html/Css**
 
-- 📸 I Love To Photoshop (Adobe Lightroom)
+- 📸 I Love To Photoshop(Adobe Lightroom, Snapseed)
 
 - 🧾 I Also Love To Design Digital Poster and Banners
 
