@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Prachit</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- ✨ I’m currently learning **Java, C++, Python, Html/Css**
+- > I’m currently learning **Java, C++, Python, Html/Css** ✨
 
-- 📸 I Love To Photoshop(Adobe Lightroom, Snapseed)
+- > I Love To Photoshop ( Lightroom, Snapseed ) 📸
 
-- 🧾 I Also Love To Design Digital Poster and Banners
+- > I Also Love To Design Digital Posters 📜
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
