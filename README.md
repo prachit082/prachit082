@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/prachit082)
 
 <h1 align="center">Hi 👋, I'm Prachit</h1>
-![Spotify](https://amrohann.vercel.app/api/spotify)](https://open.spotify.com/user/kgzfm4xv0udlhp30f5dhy2uci)
+![Spotify](https:
 <h3 align="center">A passionate developer from India
 <br><br>  
 
