@@ -35,8 +35,8 @@ Html, Css, JavaScript, Python, React, MongoDB, PhpMyAdmin, Android Studio, Light
 <h2 align="left">Stats:
 <h2 align="left"> 
  
-![](https://github-readme-stats.vercel.app/api?username=prachit082&show_icons=true&theme=radical&count_private=true)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachit082&show_icons=true&locale=en&layout=compact" alt="prachit082" /></h2>
+![](https://github-readme-stats.vercel.app/api?username=prachit082&show_icons=true&theme=tokyonight&count_private=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachit082&show_icons=true&theme=radical&locale=en&layout=compact" alt="prachit082" /></h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
