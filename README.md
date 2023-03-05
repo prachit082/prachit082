@@ -2,14 +2,19 @@
 
 <h1 align="center">Hi 👋, I'm Prachit</h1>
 
-<h2 align="center">A passionate developer from India.
+<h2 align="center">
+ 
+[![Spotify](https://amrohann.vercel.app/api/spotify)](https://open.spotify.com/user/kgzfm4xv0udlhp30f5dhy2uci)
+
+ 
+A passionate developer from India.
 <br>
  It’s my privilege to share my interests, stories, photos and skills with you. I'm passionate about learning new technologies.
- You can see some of my work below.
+ You can see below a sampling of the many things I've accomplished.
 <br><br>
 </h2>
 
-<h3 align="center">
+<h2 align="center">
 <br>
   
 - > I’m currently learning **JavaScript, Python, Html/Css, Mongo DB, PhpMyAdmin** ✨
@@ -17,18 +22,24 @@
 - > I Love To Travel & Photoshop ( Lightroom, Snapseed ) 📸
 
 - > Watching Sci-Fi & Supernatural Content is my Hobby
+</h2>
+
+
+<h3 align="center">Languages and Tools:
+<br>
+ 
+Html, Css, JavaScript, Python, React, MongoDB, PhpMyAdmin, Android Studio, Lightroom & Photoshop
+<br><br>
 </h3>
-  
 
-<br><br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h2 align="left">Stats:
+<h2 align="left"> 
+ 
+![](https://github-readme-stats.vercel.app/api?username=prachit082&show_icons=true&theme=radical&count_private=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachit082&show_icons=true&locale=en&layout=compact" alt="prachit082" /></h2>
 
-
-![Prachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=prachit082&show_icons=true&theme=radical&count_private=true)
-<br><br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://instagram.com/luciferrrr.xo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luciferrrr.xo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prachit-pandit-b61145238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachit pandit" height="30" width="40" /></a>
 </p>
