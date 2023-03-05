@@ -2,15 +2,23 @@
 
 <h1 align="center">Hi 👋, I'm Prachit</h1>
 
-<h3 align="center">A passionate developer from India
-<br><br>  
+<h2 align="center">A passionate developer from India.
+<br>
+ It’s my privilege to share my interests, stories, photos and skills with you. I'm passionate about learning new technologies.
+ You can see some of my work below.
+<br><br>
+</h2>
 
-- > I’m currently learning **Javascript, Python, Html/Css, Mongo DB** ✨
+<h3 align="center">
+<br>
+  
+- > I’m currently learning **JavaScript, Python, Html/Css, Mongo DB, PhpMyAdmin** ✨
 
 - > I Love To Travel & Photoshop ( Lightroom, Snapseed ) 📸
 
 - > Watching Sci-Fi & Supernatural Content is my Hobby
-</h3>  
+</h3>
+  
 
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
