@@ -17,9 +17,9 @@ A passionate developer from India.
 <h2 align="center">
 <br>
   
-- > I’m currently learning **JavaScript, Python, Html/Css, Mongo DB, PhpMyAdmin** ✨
+- > I’m currently learning **JavaScript, Mongo DB, PhpMyAdmin**✨
 
-- > I Love To Travel & Photoshop ( Lightroom, Snapseed ) 📸
+- > I Love To Travel & Photoshop ( Lightroom, Snapseed )📸
 
 - > Watching Sci-Fi & Supernatural Content is my Hobby
 </h2>
