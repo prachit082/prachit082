@@ -10,7 +10,7 @@
 A passionate developer from India.
 <br>
  It’s my privilege to share my interests, stories, photos and skills with you. I'm passionate about learning new technologies.
- You can see below a sampling of the many things I've accomplished.
+ You can see below a sampling of the many things I've accomplished.👇🏻
 <br><br>
 </h2>
 
@@ -21,7 +21,7 @@ A passionate developer from India.
 
 - > I Love To Travel & Photoshop ( Lightroom, Snapseed )📸
 
-- > Watching Sci-Fi & Supernatural Content is my Hobby
+- > Watching Sci-Fi & Supernatural Content is my Hobby🎬
 </h2>
 
 
