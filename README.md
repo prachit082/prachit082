@@ -9,7 +9,7 @@
  
 A passionate developer from India.
 <br>
- It’s my privilege to share my interests, stories, photos and skills with you. I'm passionate about learning new technologies.
+ It’s my privilege to share my interests, stories, photos and skills with you. I'm passionate about learning new technologies and gain real-world experience.
  You can see below a sampling of the many things I've accomplished.👇🏻
 <br><br>
 </h2>
