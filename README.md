@@ -3,7 +3,7 @@
 <h1 align="center"> >>|| Hi 👋, I'm Prachit ||<< </h1>
 
 <h2 align="left">
- <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+ <img align="right" alt="coding" width="200" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
  
 [![Spotify](https://amrohann.vercel.app/api/spotify)](https://open.spotify.com/user/kgzfm4xv0udlhp30f5dhy2uci)
