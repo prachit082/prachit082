@@ -1,17 +1,18 @@
 ![Profile views](https://gpvc.arturio.dev/prachit082)
 
-<h1 align="center">Hi 👋, I'm Prachit</h1>
+<h1 align="center"> >>|| Hi 👋, I'm Prachit ||<< </h1>
 
-<h2 align="center">
+<h2 align="left">
+ <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+
  
 [![Spotify](https://amrohann.vercel.app/api/spotify)](https://open.spotify.com/user/kgzfm4xv0udlhp30f5dhy2uci)
-
  
-A passionate developer from India.
+ ***A passionate developer from India.***
 <br>
- It’s my privilege to share my interests, stories, photos and skills with you. I'm passionate about learning new technologies and gain real-world experience.
- You can see below a sampling of the many things I've accomplished.👇🏻
-<br><br>
+ ***It’s my privilege to share my interests, stories, photos and skills with you. I'm passionate about learning new technologies and gain real-world experience.***
+<br>
+ ***You can see below a sampling of the many things I've accomplished***.👇🏻
 </h2>
 
 <h2 align="center">
@@ -25,10 +26,10 @@ A passionate developer from India.
 </h2>
 
 
-<h3 align="center">Languages and Tools:
+<h3 align="center">Languages and Tools:-
 <br>
  
-Html, Css, JavaScript, Python, React, MongoDB, PhpMyAdmin, Android Studio, Lightroom & Photoshop
+***Html, Css, JavaScript, Python, React, MongoDB, PhpMyAdmin, Android Studio, Lightroom & Photoshop***
 <br><br>
 </h3>
 
