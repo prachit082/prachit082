@@ -25,7 +25,7 @@
 </h2>
 
 
-<h3 align="center">Languages and Tools:-
+<h3 align="center">Languages and Tools:- 
 <br>
  
 ***Html, Css, JavaScript, Python, React, MongoDB, PhpMyAdmin, Android Studio, Lightroom & Photoshop***
