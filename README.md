@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/prachit082)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prachit082&label=Profile%20views&color=0e75b6&style=flat" alt="prachit082" /> </p>
 
 <h1 align="center"> >>|| Hi 👋, I'm Prachit ||<< </h1>
 
