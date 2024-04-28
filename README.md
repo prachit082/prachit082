@@ -17,18 +17,18 @@
 <h2 align="center">
 <br>
   
-- > I’m currently learning **JavaScript, Mongo DB, PhpMyAdmin**✨
+- > I’m currently learning **Javascript, Typescript, NextJS, Mongo DB, MySQL**✨
 
-- > I Love To Travel & Photoshop ( Lightroom, Snapseed )📸
+- > I love to travel & photoshop ( Lightroom, Snapseed )📸
 
-- > Watching Sci-Fi & Supernatural Content is my Hobby🎬
+- > My hobbies include watching sci-fi and supernatural content & reading comics and manga🎬
 </h2>
 
 
 <h3 align="center">Languages and Tools:- 
 <br>
  
-***Html, Css, JavaScript, Python, React, MongoDB, PhpMyAdmin, Android Studio, Lightroom & Photoshop***
+***Html, Css, Javascript, Typescript, React, Angular, Python, MongoDB, MySQL, PhpMyAdmin, Android Studio, Lightroom***
 <br><br>
 </h3>
 
