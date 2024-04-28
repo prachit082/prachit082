@@ -8,15 +8,15 @@
  
 [![Spotify](https://amrohann.vercel.app/api/spotify)](https://open.spotify.com/user/kgzfm4xv0udlhp30f5dhy2uci)
  
- ***A passionate developer from India.***
-<br>
- ***It’s my privilege to share my interests, stories, photos and skills with you. I'm passionate about learning new technologies and gain real-world experience.***
- ***You can see below a sampling of the many things I've accomplished***.👇🏻
+ ***A developer geek from India who is passionate about learning new technologies and gain real-world experience.***
+ ***I thrive on exploring innovative ideas and emerging technologies, with a special interest in designing & developing UI and building REST APIs.✅***
+ <br>
+ ***It’s my privilege to share my interests, stories, photos and skills with you. You can see below a sampling of the many things I've accomplished***.👇🏻
 <hr>
 
 - I’m currently learning **Javascript, Typescript, NextJS, Mongo DB, MySQL**✨
 
-- I love to travel & photoshop ( Lightroom, Snapseed )📸
+- I love creativity, designing, travelling & photoshop📸
 
 - My hobbies include watching sci-fi and supernatural content & reading comics and manga🎬
 <hr>
