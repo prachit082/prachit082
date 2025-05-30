@@ -6,8 +6,6 @@
  <img align="right" alt="coding" width="300" height="200" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
  
-[![Spotify](https://amrohann.vercel.app/api/spotify)](https://open.spotify.com/user/kgzfm4xv0udlhp30f5dhy2uci)
- 
  ***A developer geek from India who is passionate about learning new technologies and gaining real-world experience.***
  ***I thrive on exploring innovative ideas and emerging technologies, with a special interest in designing & developing UI and building REST APIs.✅***
  <br>
