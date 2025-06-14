@@ -1,30 +1,51 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachit082&label=Profile%20views&color=0e75b6&style=flat" alt="prachit082" /> </p>
 
-<h1 align="center"> || Hi 👋, I'm Prachit || </h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prachit Pandit</h1>
 
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;MCA+Student;UI+Designer;Full+Stack+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+</p>
 
- <img align="right" alt="coding" width="300" height="200" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<p align="center">
+As a passionate and curious Developer Geek with over 2 years of experience in Full-Stack Development, I thrive on exploring innovative ideas and emerging technologies, with a special interest in designing & developing responsive UI, building REST APIs, and developing Web Applications.💻✅ I'm dedicated to continuous learning and leveraging my knowledge to create impactful solutions.✨📝 
+My goal is to learn, gain and grasp as much experience & knowledge I can.📊📈 Let's connect and collaborate on exciting projects! 🤝🏼
+</p>
+<br>
 
- 
- ***A developer geek from India who is passionate about learning new technologies and gaining real-world experience.***
- ***I thrive on exploring innovative ideas and emerging technologies, with a special interest in designing & developing UI and building REST APIs.✅***
+---
+
+<details>
+<summary>
+  🧑 Little facts about me:
+</summary>
  <br>
- ***It’s my privilege to share my interests, stories, photos and skills with you. You can see below a sampling of the many things I've accomplished***.👇🏻
-<hr>
 
-- I’m currently learning **Javascript, Typescript, NextJS, Mongo DB, MySQL**✨
+- 💡 I'm a Tech Enthusiast and currently working on Full Stack Development.
+- 👯 I’m looking to collaborate with Fullstack Web and UI projects.
+- ⚡ Fun fact: I love sports, especially Cricket. Also reading & watching Supernatural & Sci-Fi content is my hobby since childhood.
+  
+ </details>
 
-- I love creativity, designing, travelling & photoshop📸
+ ---
 
-- My hobbies include watching sci-fi and supernatural content & reading comics and manga🎬
-<hr>
-
-### ✍️ Random Quote For The Day
+<details>
+<summary>
+  ✍️ Random quote for the day:
+</summary>
+ <br>
+ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<hr>
+</details>
 
-### 💻 Tech Stack:
+---
+
+<details open="">
+<summary>
+  ✨ Tech stack currently using:
+</summary>
+   <br>
+ 
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
@@ -52,23 +73,36 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
-### 📊 Stats:
+<details>
+
+<p align="left">
+
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prachit082&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ </p>
+ </details>
+</details>
+
+---
+
+<details open="">
+<summary>
+  📊 Stats:
+</summary>
+   <br>
+
 <p align="left">
  
 ![](https://github-readme-stats.vercel.app/api?username=prachit082&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prachit082&theme=tokyonight&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prachit082&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 </p>
 
 
-## 🌐 Connect With Me:
+### 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/prachit.xo/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsprachit) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prachitpandit) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/67bWXXcPL) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/monarch_20/)
 
-
-
+<p align="right" > Created with 🧡 by <a href="https://github.com/prachit082">Prachit</a></p>
 
