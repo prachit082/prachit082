@@ -90,7 +90,7 @@ My goal is to learn, gain and grasp as much experience & knowledge I can.ðŸ“ŠðŸ“
 </summary>
    <br>
 
-<p align="center">
+<p align="left">
  
 ![](https://github-readme-stats.vercel.app/api?username=prachit082&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&card_width=340)
 [![](https://streak-stats.demolab.com?user=prachit082&theme=tokyonight&card_width=430)](https://git.io/streak-stats)<br>
